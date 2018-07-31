@@ -212,6 +212,7 @@ header.masthead {
   top: 50%;
   left: 50%;
   transform: translate(-50%,-50%);
+  width: 100%
 }
 
 header.masthead .intro-text {
@@ -763,4 +764,10 @@ ul.social-buttons li a {
 
 ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons li a:hover {
   background-color: #fed136;
+}
+
+.welcomeProperty {
+
+  font-family: 'Black Ops One';
+  font-size: 5em;
 }
